@@ -36,4 +36,4 @@ Each video comes with a matching `.jpg` thumbnail preview.
 
 
 ## Secret
--Check thanks.md for a little something 🙂
+-Check [thanks.md] for a little something 🙂
