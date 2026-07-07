@@ -34,5 +34,6 @@ Each video comes with a matching `.jpg` thumbnail preview.
 - Files are provided in `.webm` format, which Steam expects for custom startup movies.
 - Don't rename the video files — Steam's customization menu references them by their exact filenames.
 
+
 ## Secret
--Check [thanks.md]  for a little something 🙂
+-Check thanks.md for a little something 🙂
